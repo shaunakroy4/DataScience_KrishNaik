@@ -1,5 +1,5 @@
 # DataScience_KrishNaik
-DS practice \n
+DS practice  
 DS_KrishNaik_1: Basic Statistics and plotting
-  Box plot, Histogram, Countplot \n
+  Box plot, Histogram, Countplot  
 DS_KrishNaik_2: Z score, IQR
